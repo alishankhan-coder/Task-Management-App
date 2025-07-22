@@ -19,36 +19,6 @@ const Footer = () => {
       icon: 'fab fa-twitter',
       url: '#',
       color: '#1da1f2'
-    },
-    {
-      name: 'Instagram',
-      icon: 'fab fa-instagram',
-      url: '#',
-      color: '#e1306c'
-    },
-    {
-      name: 'Facebook',
-      icon: 'fab fa-facebook',
-      url: '#',
-      color: '#1877f2'
-    },
-    {
-      name: 'YouTube',
-      icon: 'fab fa-youtube',
-      url: '#',
-      color: '#ff0000'
-    },
-    {
-      name: 'Discord',
-      icon: 'fab fa-discord',
-      url: '#',
-      color: '#5865f2'
-    },
-    {
-      name: 'Telegram',
-      icon: 'fab fa-telegram',
-      url: '#',
-      color: '#0088cc'
     }
   ];
 
@@ -81,22 +51,12 @@ const Footer = () => {
             </div>
             
             <div className="footer-section">
-              <h4>Support</h4>
-              <ul>
-                <li><a href="#help">Help Center</a></li>
-                <li><a href="#docs">Documentation</a></li>
-                <li><a href="#contact">Contact Us</a></li>
-                <li><a href="#faq">FAQ</a></li>
-              </ul>
-            </div>
-            
-            <div className="footer-section">
               <h4>Developer</h4>
               <ul>
                 <li><a href="mailto:alishankhanofficial@gmail.com">Email</a></li>
                 <li><a href="tel:+923018826093">Phone</a></li>
-                <li><a href="#portfolio">Portfolio</a></li>
-                <li><a href="#resume">Resume</a></li>
+                <li><a href="https://alishankhan.netlify.app/">Portfolio</a></li>
+                <li><a href="https://alishankhan.netlify.app/assets/ali-shan-cv">Resume</a></li>
               </ul>
             </div>
           </div>
