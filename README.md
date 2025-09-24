@@ -2,6 +2,9 @@
 
 A beautiful and intuitive task management app built with React. Keep track of your daily tasks with style!
 
+<img width="1920" height="2251" alt="screencapture-localhost-3000-2025-09-24-10_48_36" src="https://github.com/user-attachments/assets/141f73ac-1a92-4b45-8634-df389f8143d0" />
+
+
 ## What is this?
 
 TaskFlow is a task manager that doesn't just work - it looks amazing while doing it. I built this with React to create something that's both functional and visually appealing. It has a futuristic design with smooth animations that make managing tasks actually enjoyable.
